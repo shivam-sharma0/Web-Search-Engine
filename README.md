@@ -7,7 +7,7 @@ anything from the given website.
 
 ## Tech Stack
 
-**:-** Java, Html, Css, Rest-API, Maven, MySql, Jdbc
+**:-** Java, Html, Css, Rest-API, Maven, MySql, Jdbc,Java Servlets
 
 
 
